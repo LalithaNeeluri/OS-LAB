@@ -2,6 +2,7 @@
 Operating System Lab
 #basic linux practice
 general command outputs
-###cd command ouput
-![cd command output](cd.png)
-![cd command manual](cd.png)
+###date command ouput
+![date command output](date.png)
+![manual command manual](cdmanual.png)
+
