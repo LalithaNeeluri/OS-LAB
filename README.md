@@ -1,7 +1,7 @@
 # OS-LAB
 Operating System Lab
 #basic linux practice
-general command outputs
+General command outputs
 ###date command ouput
 ![date command output](date.png)
 ![manual command manual](manual.png)
