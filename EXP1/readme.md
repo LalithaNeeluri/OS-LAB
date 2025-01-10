@@ -2,6 +2,6 @@
 Operating System Lab
 #basic linux practice
 General command outputs
-### exit command ouput
-![exit command output](exit.png)
-![manual command manual](exitmanual.png)
+### cat command ouput
+![cat command output](cat.png)
+![manual command manual](catmanual.png)
