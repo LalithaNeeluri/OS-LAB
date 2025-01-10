@@ -2,6 +2,6 @@
 Operating System Lab
 #basic linux practice
 General command outputs
-### who command ouput
-![who command output](who.png)
-![manual command manual](whomanual.png)
+### mkdir command ouput
+![mkdir command output](mkdir.png)
+![manual command manual](mkdirmanual.png)
