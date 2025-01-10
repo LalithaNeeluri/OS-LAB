@@ -4,4 +4,4 @@ Operating System Lab
 General command outputs
 ### rmdir command ouput
 ![rmdir command output](rmdir.png)
-![manual command manual](rmdirmanual.png)
+![rmdirmanual command manual](rmdirmanual.png)
