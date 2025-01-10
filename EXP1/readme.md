@@ -3,5 +3,5 @@ Operating System Lab
 #basic linux practice
 General command outputs
 ### who command ouput
-![who command output](who.png)
-![manual command manual](whomanual.png)
+![rm command output](rms.png)
+![manual command manual](rmmanual.png)
