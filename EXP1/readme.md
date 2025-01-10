@@ -2,6 +2,6 @@
 Operating System Lab
 #basic linux practice
 General command outputs
-### cat command ouput
-![cat command output](cat.png)
-![manual command manual](catmanual.png)
+### history command ouput
+![history command output](history.png)
+![manual command manual](historymanual.png)
