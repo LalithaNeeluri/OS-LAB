@@ -2,6 +2,6 @@
 Operating System Lab
 #basic linux practice
 General command outputs
-### history command ouput
-![history command output](history.png)
-![manual command manual](historymanual.png)
+### cmp command ouput
+![cmp command output](cmp.png)
+![manual command manual](cmpmanual.png)
