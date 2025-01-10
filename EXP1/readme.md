@@ -2,6 +2,6 @@
 Operating System Lab
 #basic linux practice
 General command outputs
-### cp command ouput
-![cp command output](copy.png)
-![manual command manual](cpmanual.png)
+### cd command ouput
+![cd command output](cd.png)
+![manual command manual](cdmanual.png)
