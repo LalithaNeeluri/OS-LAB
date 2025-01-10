@@ -2,6 +2,6 @@
 Operating System Lab
 #basic linux practice
 General command outputs
-### cal command ouput
-![cal command output](cal.png)
-![manual command manual](calmanual.png)
+### tty command ouput
+![tty command output](tty.png)
+![manual command manual](ttymanual.png)
