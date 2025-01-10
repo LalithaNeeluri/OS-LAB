@@ -2,6 +2,6 @@
 Operating System Lab
 #basic linux practice
 General command outputs
-### cmp command ouput
-![cmp command output](cmp.png)
-![manual command manual](cmpmanual.png)
+### cd command ouput
+![cd command output](cd.png)
+![manual command manual](cdmanual.png)
