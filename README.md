@@ -2,6 +2,6 @@
 Operating System Lab
 #basic linux practice
 General command outputs
-### mkdir command ouput
-![mkdir command output](mkdir.png)
-![manual command manual](mkdirmanual.png)
+### cat command ouput
+![cat command output](cat.png)
+![manual command manual](catmanual.png)
