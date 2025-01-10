@@ -2,6 +2,6 @@
 Operating System Lab
 #basic linux practice
 General command outputs
-### rmdir command ouput
-![rmdir command output](rmdir.png)
-![manual command manual](rmdirmanual.png)
+### move command ouput
+![move command output](move.png)
+![manual command manual](movemanual.png)
