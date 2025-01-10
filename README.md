@@ -2,6 +2,6 @@
 Operating System Lab
 #basic linux practice
 General command outputs
-### uname command ouput
-![uname command output](uname.png)
-![manual command manual](unamemanual.png)
+### rmdir command ouput
+![rmdir command output](rmdir.png)
+![manual command manual](rmdirmanual.png)
