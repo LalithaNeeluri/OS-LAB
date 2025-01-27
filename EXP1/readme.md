@@ -2,6 +2,9 @@
 Operating System Lab
 #basic linux practice
 General command outputs
-### touch command ouput
-![touch command output](touch.png)
-![manual command manual](touchmanual.png)
+### bc command ouput
+![touch command output](bc.png)
+![manual command manual](bcmanual.png)
+### cal command ouput
+![touch command output](cal.png)
+![manual command manual](calmanual.png)
